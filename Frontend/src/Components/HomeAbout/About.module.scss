@@ -1,0 +1,29 @@
+.aboutCard {
+    background: linear-gradient(135deg, #007BFF, #00BFFF); // Blue gradient background
+    color: white; // Text color for contrast
+    padding: 20px; // Padding around the content
+    border-radius: 10px; // Rounded corners
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); // Subtle shadow effect
+    width: 98vw; // Limit the width of the card
+    margin: 20px auto; // Center the card horizontally and add vertical space
+
+    h2 {
+        text-align: center;
+        font-size: 24px; // Size of the main heading
+        margin-bottom: 10px; // Space below the heading
+        color:black;
+    }
+
+    h3 {
+        text-align: center;
+        font-size: 20px; // Size of the subheading
+        margin-bottom: 15px; // Space below the subheading
+        color: coral;
+    }
+
+    p {
+        font-size: 16px; // Size of the paragraph text
+        line-height: 1.5; // Line height for readability
+        margin-bottom: 15px; // Space below each paragraph
+    }
+}
