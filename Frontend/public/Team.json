@@ -1,0 +1,267 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "img": "https://via.placeholder.com/100",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/alicejohnson",
+        "github": "https://github.com/alicejohnson",
+        "designation": "Director"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "img": "https://via.placeholder.com/100",
+      "type": "Pre Final Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/bsmith",
+        "github": "https://github.com/bsmith",
+        "designation": "Senior Developer"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Catherine Lee",
+      "img": "https://via.placeholder.com/100",
+      "type": "Second Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/catherinelee",
+        "github": "https://github.com/catherinelee",
+        "designation": "Project Manager"
+      }
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "img": "https://via.placeholder.com/100",
+      "type": "Alumni",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/davidkim",
+        "github": "https://github.com/davidkim",
+        "designation": "Junior Developer"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Emma Watson",
+      "img": "https://via.placeholder.com/100",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/emmawatson",
+        "github": "https://github.com/emmawatson",
+        "designation": "Team Lead"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Frank Green",
+      "img": "https://via.placeholder.com/100",
+      "type": "Pre Final Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/frankgreen",
+        "github": "https://github.com/frankgreen",
+        "designation": "Backend Developer"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Grace Turner",
+      "img": "https://via.placeholder.com/100",
+      "type": "Second Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/graceturner",
+        "github": "https://github.com/graceturner",
+        "designation": "UI/UX Designer"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Harry Styles",
+      "img": "https://via.placeholder.com/100",
+      "type": "Alumni",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/harrystyles",
+        "github": "https://github.com/harrystyles",
+        "designation": "Frontend Developer"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Isabella Chen",
+      "img": "https://via.placeholder.com/100",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/isabellachen",
+        "github": "https://github.com/isabellachen",
+        "designation": "Data Scientist"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Jack Lee",
+      "img": "https://via.placeholder.com/100",
+      "type": "Pre Final Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/jacklee",
+        "github": "https://github.com/jacklee",
+        "designation": "Mobile Developer"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Katherine Park",
+      "img": "https://via.placeholder.com/100",
+      "type": "Second Year",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/katherinepark",
+        "github": "https://github.com/katherinepark",
+        "designation": "Quality Assurance"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Liam Johnson",
+      "img": "https://via.placeholder.com/100",
+      "type": "Alumni",
+      "extra": {
+        "linkedin": "https://linkedin.com/in/liamjohnson",
+        "github": "https://github.com/liamjohnson",
+        "designation": "DevOps Engineer"
+      }
+    },
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "img": "https://via.placeholder.com/100",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/alicejohnson",
+          "github": "https://github.com/alicejohnson",
+          "designation": "Director"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "img": "https://via.placeholder.com/100",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/bsmith",
+          "github": "https://github.com/bsmith",
+          "designation": "Senior Developer"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Catherine Lee",
+        "img": "https://via.placeholder.com/100",
+        "type": "Second Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/catherinelee",
+          "github": "https://github.com/catherinelee",
+          "designation": "Project Manager"
+        }
+      },
+      {
+        "id": 4,
+        "name": "David Kim",
+        "img": "https://via.placeholder.com/100",
+        "type": "Alumni",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/davidkim",
+          "github": "https://github.com/davidkim",
+          "designation": "Junior Developer"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Emma Watson",
+        "img": "https://via.placeholder.com/100",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/emmawatson",
+          "github": "https://github.com/emmawatson",
+          "designation": "Team Lead"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Frank Green",
+        "img": "https://via.placeholder.com/100",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/frankgreen",
+          "github": "https://github.com/frankgreen",
+          "designation": "Backend Developer"
+        }
+      },
+      {
+        "id": 7,
+        "name": "Grace Turner",
+        "img": "https://via.placeholder.com/100",
+        "type": "Second Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/graceturner",
+          "github": "https://github.com/graceturner",
+          "designation": "UI/UX Designer"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Harry Styles",
+        "img": "https://via.placeholder.com/100",
+        "type": "Alumni",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/harrystyles",
+          "github": "https://github.com/harrystyles",
+          "designation": "Frontend Developer"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Isabella Chen",
+        "img": "https://via.placeholder.com/100",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/isabellachen",
+          "github": "https://github.com/isabellachen",
+          "designation": "Data Scientist"
+        }
+      },
+      {
+        "id": 10,
+        "name": "Jack Lee",
+        "img": "https://via.placeholder.com/100",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/jacklee",
+          "github": "https://github.com/jacklee",
+          "designation": "Mobile Developer"
+        }
+      },
+      {
+        "id": 11,
+        "name": "Katherine Park",
+        "img": "https://via.placeholder.com/100",
+        "type": "Second Year",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/katherinepark",
+          "github": "https://github.com/katherinepark",
+          "designation": "Quality Assurance"
+        }
+      },
+      {
+        "id": 12,
+        "name": "Liam Johnson",
+        "img": "https://via.placeholder.com/100",
+        "type": "Alumni",
+        "extra": {
+          "linkedin": "https://linkedin.com/in/liamjohnson",
+          "github": "https://github.com/liamjohnson",
+          "designation": "DevOps Engineer"
+        }
+      }
+  ]
+  
