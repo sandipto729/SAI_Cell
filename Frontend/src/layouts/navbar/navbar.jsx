@@ -101,7 +101,7 @@ const SchoolNavbar = () => {
                     )}
                 </li>
 
-                <li><HashLink smooth to='/ashram' className={styles.salumniLink}><span>Team</span></HashLink></li>
+                <li><HashLink smooth to='/team' className={styles.salumniLink}><span>Team</span></HashLink></li>
             </div>
 
             {/* Sidebar Toggle for Mobile */}
