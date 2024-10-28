@@ -1,6 +1,6 @@
 import React from 'react'
 import { Outlet } from 'react-router-dom'
-import Navbar from './layouts/navbar/Navbar'
+import Navbar from './layouts/navbar/navbar'
 import Footer from './layouts/footer/footer'
 
 const App = () => {
