@@ -8,6 +8,7 @@ import logo from './../../assets/NIT_Durgapur_Logo.svg';
 import { Link } from 'react-router-dom';
 
 const SchoolNavbar = () => {
+    
     const [isSchool, setIsSchool] = useState(false);
     const [isAdmission, setIsAdmission] = useState(false);
     const [isAcademics, setIsAcademics] = useState(false);
@@ -64,7 +65,7 @@ const SchoolNavbar = () => {
 
             {/* Main Navigation */}
             <div className={styles.snav}>
-                <li><HashLink smooth to='/home' className={styles.salumniLink}>Home</HashLink></li>
+                <li><HashLink smooth to='/' className={styles.salumniLink}>Home</HashLink></li>
                 <li><HashLink smooth to='/about' className={styles.salumniLink}>About SAIC</HashLink></li>
                 <li
                     onMouseEnter={() => !isMobile && setIsSchool(true)}
@@ -78,9 +79,12 @@ const SchoolNavbar = () => {
                     </div>
                     {(isSchool || !isMobile) && (
                         <ul className={styles.subOption}>
-                            <li><HashLink smooth to='/school/home'>Student Alumni Mentorship Program</HashLink></li>
-                            <li><HashLink smooth to='/school/home#mission'>Alumni Internship Program</HashLink></li>
-                            <li><HashLink smooth to='/school/home#teachers-carousel'>Alumni Recruit Connect</HashLink></li>
+                            <li><HashLink smooth to='/initiaves'>Student Alumni Mentorship Program</HashLink></li>
+
+                            <li><HashLink smooth to='/initiaves#alumni-internship'>Alumni Internship Program</HashLink></li>
+                            <li><HashLink smooth to='/initiaves#alumni-recruit-connect'>Alumni Recruit Connect</HashLink></li>
+
+
                         </ul>
                     )}
                 </li>
@@ -101,7 +105,7 @@ const SchoolNavbar = () => {
                     )}
                 </li>
 
-                <li><HashLink smooth to='/ashram' className={styles.salumniLink}><span>Team</span></HashLink></li>
+                <li><HashLink smooth to='/team' className={styles.salumniLink}><span>Team</span></HashLink></li>
             </div>
 
             {/* Sidebar Toggle for Mobile */}
@@ -114,26 +118,26 @@ const SchoolNavbar = () => {
                 <ul>
                     <li onClick={toggleSideMenu}><ClearIcon style={{ cursor: 'pointer', color: 'red' }} /></li>
 
-                    <li><HashLink smooth to='/school/home#holytrio'style={{ color: 'rgb(255, 153, 0)'}} onClick={toggleSideMenu}>Home</HashLink></li>
+                    <li><HashLink smooth to='/' style={{ color: 'rgb(255, 153, 0)' }} onClick={toggleSideMenu}>Home</HashLink></li>
 
-                    <li><HashLink smooth to='/school/admission#notice'style={{ color: 'rgb(255, 153, 0)' }} onClick={toggleSideMenu}>About SAIC</HashLink></li>
+                    <li><HashLink smooth to='/about' style={{ color: 'rgb(255, 153, 0)' }} onClick={toggleSideMenu}>About SAIC</HashLink></li>
 
                     <li><p>Iniatives</p></li>
 
 
-                    <li><HashLink smooth to='/school/academic#result' onClick={toggleSideMenu}>Student Alumni Mentorship Program</HashLink></li>
-                    <li><HashLink smooth to='/school/academic#syllabus' onClick={toggleSideMenu}>Alumni Internship Program</HashLink></li>
-                    <li><HashLink smooth to='/school/academic#booklist' onClick={toggleSideMenu}>Alumni Recruit Connec</HashLink></li>
+                    <li><HashLink smooth to='/initiaves' onClick={toggleSideMenu}>Student Alumni Mentorship Program</HashLink></li>
+                    <li><HashLink smooth to='/initiaves#alumni-internship' onClick={toggleSideMenu}>Alumni Internship Program</HashLink></li>
+                    <li><HashLink smooth to='/initiaves#alumni-recruit-connect' onClick={toggleSideMenu}>Alumni Recruit Connec</HashLink></li>
 
                     <li><p>Publication</p></li>
 
                     <li><HashLink smooth to='/school/admission#notice' onClick={toggleSideMenu}>News Letter</HashLink></li>
                     <li><HashLink smooth to='/school/admission#notice' onClick={toggleSideMenu}>Year Book</HashLink></li>
 
-                    
+
                     {/* <li><HashLink smooth to='/ashram' onClick={() => { document.body.classList.remove('lock-scroll') }} style={{ color: 'rgb(255, 153, 0)', fontSize: 'large', fontWeight: 'bolder' }}>Ashram</HashLink></li> */}
-                    <li><HashLink smooth to='/school/admission#notice' onClick={toggleSideMenu} style={{ color: 'rgb(255, 153, 0)' }}>Team</HashLink></li>
-                    
+                    <li><HashLink smooth to='/team' onClick={toggleSideMenu} style={{ color: 'rgb(255, 153, 0)' }}>Team</HashLink></li>
+
                 </ul>
             </div>
         </div>
