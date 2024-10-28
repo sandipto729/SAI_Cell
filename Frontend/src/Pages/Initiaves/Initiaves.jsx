@@ -5,8 +5,13 @@ import AlumniRecruitConnect from '../../Components/AlumniRecruitConnect/AlumniRe
 const Initiaves = () => {
   return (
     <div>
-      <AlumniInternship id="alumni-internship" />
-      <AlumniRecruitConnect id="alumni-recruit-connect" />
+      <section id='alumni-internship'>
+        <AlumniInternship />
+      </section>
+      <section id="alumni-recruit-connect">
+        <AlumniRecruitConnect />
+      </section>
+
     </div>
   )
 }

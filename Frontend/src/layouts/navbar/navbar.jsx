@@ -136,7 +136,7 @@ const SchoolNavbar = () => {
 
 
                     {/* <li><HashLink smooth to='/ashram' onClick={() => { document.body.classList.remove('lock-scroll') }} style={{ color: 'rgb(255, 153, 0)', fontSize: 'large', fontWeight: 'bolder' }}>Ashram</HashLink></li> */}
-                    <li><HashLink smooth to='/school/admission#notice' onClick={toggleSideMenu} style={{ color: 'rgb(255, 153, 0)' }}>Team</HashLink></li>
+                    <li><HashLink smooth to='/team' onClick={toggleSideMenu} style={{ color: 'rgb(255, 153, 0)' }}>Team</HashLink></li>
 
                 </ul>
             </div>
