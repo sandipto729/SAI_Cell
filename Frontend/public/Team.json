@@ -1,267 +1,558 @@
 [
     {
-      "id": 1,
-      "name": "Alice Johnson",
-      "img": "https://via.placeholder.com/100",
-      "type": "Final Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/alicejohnson",
-        "github": "https://github.com/alicejohnson",
-        "designation": "Director"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Bob Smith",
-      "img": "https://via.placeholder.com/100",
-      "type": "Pre Final Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/bsmith",
-        "github": "https://github.com/bsmith",
-        "designation": "Senior Developer"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Catherine Lee",
-      "img": "https://via.placeholder.com/100",
-      "type": "Second Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/catherinelee",
-        "github": "https://github.com/catherinelee",
-        "designation": "Project Manager"
-      }
-    },
-    {
-      "id": 4,
-      "name": "David Kim",
-      "img": "https://via.placeholder.com/100",
-      "type": "Alumni",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/davidkim",
-        "github": "https://github.com/davidkim",
-        "designation": "Junior Developer"
-      }
-    },
-    {
-      "id": 5,
-      "name": "Emma Watson",
-      "img": "https://via.placeholder.com/100",
-      "type": "Final Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/emmawatson",
-        "github": "https://github.com/emmawatson",
-        "designation": "Team Lead"
-      }
-    },
-    {
-      "id": 6,
-      "name": "Frank Green",
-      "img": "https://via.placeholder.com/100",
-      "type": "Pre Final Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/frankgreen",
-        "github": "https://github.com/frankgreen",
-        "designation": "Backend Developer"
-      }
-    },
-    {
-      "id": 7,
-      "name": "Grace Turner",
-      "img": "https://via.placeholder.com/100",
-      "type": "Second Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/graceturner",
-        "github": "https://github.com/graceturner",
-        "designation": "UI/UX Designer"
-      }
-    },
-    {
-      "id": 8,
-      "name": "Harry Styles",
-      "img": "https://via.placeholder.com/100",
-      "type": "Alumni",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/harrystyles",
-        "github": "https://github.com/harrystyles",
-        "designation": "Frontend Developer"
-      }
-    },
-    {
-      "id": 9,
-      "name": "Isabella Chen",
-      "img": "https://via.placeholder.com/100",
-      "type": "Final Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/isabellachen",
-        "github": "https://github.com/isabellachen",
-        "designation": "Data Scientist"
-      }
-    },
-    {
-      "id": 10,
-      "name": "Jack Lee",
-      "img": "https://via.placeholder.com/100",
-      "type": "Pre Final Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/jacklee",
-        "github": "https://github.com/jacklee",
-        "designation": "Mobile Developer"
-      }
-    },
-    {
-      "id": 11,
-      "name": "Katherine Park",
-      "img": "https://via.placeholder.com/100",
-      "type": "Second Year",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/katherinepark",
-        "github": "https://github.com/katherinepark",
-        "designation": "Quality Assurance"
-      }
-    },
-    {
-      "id": 12,
-      "name": "Liam Johnson",
-      "img": "https://via.placeholder.com/100",
-      "type": "Alumni",
-      "extra": {
-        "linkedin": "https://linkedin.com/in/liamjohnson",
-        "github": "https://github.com/liamjohnson",
-        "designation": "DevOps Engineer"
-      }
-    },
-    {
-        "id": 1,
-        "name": "Alice Johnson",
-        "img": "https://via.placeholder.com/100",
-        "type": "Final Year",
-        "extra": {
-          "linkedin": "https://linkedin.com/in/alicejohnson",
-          "github": "https://github.com/alicejohnson",
-          "designation": "Director"
-        }
-      },
-      {
-        "id": 2,
-        "name": "Bob Smith",
-        "img": "https://via.placeholder.com/100",
-        "type": "Pre Final Year",
-        "extra": {
-          "linkedin": "https://linkedin.com/in/bsmith",
-          "github": "https://github.com/bsmith",
-          "designation": "Senior Developer"
-        }
-      },
-      {
-        "id": 3,
-        "name": "Catherine Lee",
-        "img": "https://via.placeholder.com/100",
+        "id": 4,
+        "name": "Aparup Goswami",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730918597/sj7s1nezhpimryvzvdqh.jpg",
         "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/catherinelee",
-          "github": "https://github.com/catherinelee",
-          "designation": "Project Manager"
-        }
-      },
-      {
-        "id": 4,
-        "name": "David Kim",
-        "img": "https://via.placeholder.com/100",
-        "type": "Alumni",
-        "extra": {
-          "linkedin": "https://linkedin.com/in/davidkim",
-          "github": "https://github.com/davidkim",
-          "designation": "Junior Developer"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       },
       {
         "id": 5,
-        "name": "Emma Watson",
-        "img": "https://via.placeholder.com/100",
-        "type": "Final Year",
+        "name": "Joys Pakalapati",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730918953/members/fuidalrbdbxw9nbapdjo.jpg",
+        "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/emmawatson",
-          "github": "https://github.com/emmawatson",
-          "designation": "Team Lead"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       },
       {
         "id": 6,
-        "name": "Frank Green",
-        "img": "https://via.placeholder.com/100",
-        "type": "Pre Final Year",
+        "name": "Jaswika Mithram",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730918954/members/nztz9vanfrexhewhiqko.jpg",
+        "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/frankgreen",
-          "github": "https://github.com/frankgreen",
-          "designation": "Backend Developer"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       },
       {
         "id": 7,
-        "name": "Grace Turner",
-        "img": "https://via.placeholder.com/100",
+        "name": "KamalKanta Patra",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730918953/members/uqd48pz8pmmugx4nxrdo.jpg",
         "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/graceturner",
-          "github": "https://github.com/graceturner",
-          "designation": "UI/UX Designer"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       },
       {
         "id": 8,
-        "name": "Harry Styles",
-        "img": "https://via.placeholder.com/100",
-        "type": "Alumni",
+        "name": "Avisikta Mandal",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730918955/members/gg6llrpqatb8fkxhaa0l.jpg",
+        "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/harrystyles",
-          "github": "https://github.com/harrystyles",
-          "designation": "Frontend Developer"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       },
       {
         "id": 9,
-        "name": "Isabella Chen",
-        "img": "https://via.placeholder.com/100",
-        "type": "Final Year",
+        "name": "Galipelly Sriram",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730918955/members/fhsqwm337y4db0rfkt3u.jpg",
+        "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/isabellachen",
-          "github": "https://github.com/isabellachen",
-          "designation": "Data Scientist"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       },
       {
         "id": 10,
-        "name": "Jack Lee",
-        "img": "https://via.placeholder.com/100",
-        "type": "Pre Final Year",
+        "name": "Tulasi pottella",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919898/members/htvi7phpg7mjjjkzrhwp.jpg",
+        "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/jacklee",
-          "github": "https://github.com/jacklee",
-          "designation": "Mobile Developer"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       },
       {
         "id": 11,
-        "name": "Katherine Park",
-        "img": "https://via.placeholder.com/100",
+        "name": "Shubhamita Halder",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919898/members/bb4albcginsyokbvtzlh.jpg",
         "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/katherinepark",
-          "github": "https://github.com/katherinepark",
-          "designation": "Quality Assurance"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
+        }
+      }
+      ,
+      {
+        "id": 12,
+        "name": "Satyake Sadhukhan",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919899/members/nvufkkjqlq1x5nflolrz.jpg",
+        "type": "Second Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       },
       {
-        "id": 12,
-        "name": "Liam Johnson",
-        "img": "https://via.placeholder.com/100",
-        "type": "Alumni",
+        "id": 13,
+        "name": "Riya Singh ",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919899/members/lmarq6xos95looxw6qxn.jpg",
+        "type": "Second Year",
         "extra": {
-          "linkedin": "https://linkedin.com/in/liamjohnson",
-          "github": "https://github.com/liamjohnson",
-          "designation": "DevOps Engineer"
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
+        }
+      },
+      {
+        "id": 14,
+        "name": "Mandala Bharadwaj",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919899/members/jwrdm6fimxknd9766kip.jpg",
+        "type": "Second Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
+        }
+      },
+      {
+        "id": 15,
+        "name": "Prakash Chandra Das",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919899/members/uynxiuqpo6cgq2op8pir.jpg",
+        "type": "Second Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
+        }
+      },
+      {
+        "id": 16,
+        "name": "Shafiya Tasneem Shaik",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919900/members/jvez6hexjzbeg7fkhfyi.jpg",
+        "type": "Second Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
+        }
+      },
+      {
+        "id": 17,
+        "name": "Sagar Murmu",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919901/members/qdptl9bltmnbos6umkop.jpg",
+        "type": "Second Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Mumber"
         }
       }
+      ,
+
+      {
+        "id": 18,
+        "name": "Kanikicharla Bala Ganesh",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922415/executive%20members/dehnvar4orc5nj8kiwxq.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      },
+      {
+        "id": 19,
+        "name": "Souhardya Majumder",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922389/executive%20members/xojiuaxub3ymwrob8f5s.png",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      },
+      {
+        "id": 20,
+        "name": "Sanjib Maity",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922390/executive%20members/c6d1pb2q9yc0htgxutuw.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      },
+      
+      {
+        "id": 21,
+        "name": "Soumili Ghosh",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922390/executive%20members/oxgwfrvkcdqpmucqmxsv.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      
+      {
+        "id": 22,
+        "name": "Reshmi Saha",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922390/executive%20members/xl8sp1jafr5hantranlc.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      
+      {
+        "id": 23,
+        "name": "Pappu Sharmila",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922392/executive%20members/ixj7ovfmwjm5opgwha0a.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      
+      {
+        "id": 24,
+        "name": "Kathravath Navya",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922392/executive%20members/godco85z3uqtthnljfuz.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      },
+      {
+        "id": 25,
+        "name": "Rahul Mondal",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922392/executive%20members/jzkimvwnsczvpep7dti8.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      },
+      {
+        "id": 26,
+        "name": "Sai Kumar Adireddy",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922392/executive%20members/xu8loyazjyou2uqy44cq.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      },
+      {
+        "id": 27,
+        "name": "Bikarna Baidya",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922392/executive%20members/kmazi9lifztai9lbbshm.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      {
+        "id": 28,
+        "name": "Soumi Ghosh",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922397/executive%20members/avgqeraibbnxvpvtfon1.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      {
+        "id": 29,
+        "name": "Swarnim Suryansh",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922394/executive%20members/y0xqdghdp9oqosvgsdin.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      {
+        "id": 30,
+        "name": "Supriyo Mondal",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922394/executive%20members/lcqd0cbx9hjmm7zk6x7v.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      {
+        "id": 31,
+        "name": "Uppada Sravanthi",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922394/executive%20members/yaj7wtkuyshi7tta0duq.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      {
+        "id": 32,
+        "name": "Pratishtha Barua",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922394/executive%20members/ja6oplur1wpw9xoa7p4v.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+      ,
+      {
+        "id": 33,
+        "name": "Vishal Gupta",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730922393/executive%20members/oqscyp52phm8lekhfyvn.jpg",
+        "type": "Pre Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Executive Member"
+        }
+      }
+
+      ,
+      {
+        "id": 34,
+        "name": "Satyaki Chaudhuri",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924690/post%20bearers/jbjuktjkbasu0jqjlsj4.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Convenor"
+        }
+      },
+      {
+        "id": 35,
+        "name": "Satish Abbadasari",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924690/post%20bearers/irysnmsnde9iyletii04.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Social Media Head"
+        }
+      },
+      {
+        "id": 36,
+        "name": "Sai Kiran",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924690/post%20bearers/pboacl48gtirytlsgssa.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Graphic Designing Head"
+        }
+      },
+      {
+        "id": 37,
+        "name": "Shayoni Mahato",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/ykyljv9quawf9qdjiihl.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Vice President"
+        }
+      },
+      {
+        "id": 38,
+        "name": "Amanjyoti Mullick",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/p2ovs3l6oadta0f72xoq.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "President"
+        }
+      },
+      {
+        "id": 39,
+        "name": "Arnab Nath",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/o9aic9t1kd2rvemxix2f.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Web Development Head"
+        }
+      },
+      {
+        "id": 40,
+        "name": "Sneha Ghosh",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/dwtw4uop6ntr5qraelby.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Content Head"
+        }
+      },
+      {
+        "id": 41,
+        "name": "Sudipta Das",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/ktzpouqwurdzpzav7h3b.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Web Development Head"
+        }
+      },
+      {
+        "id": 42,
+        "name": "T.V.N.S. Praveen ",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924688/post%20bearers/fc6v8wlwc5d3hudil1qi.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Joint Treasurer"
+        }
+      },
+      {
+      "id": 43,
+      "name": "Samanvita",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924688/post%20bearers/xnxv8jrmnkpfjgqmeznz.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Publicity Head"
+      }
+    }
+    ,
+      {
+      "id": 44,
+      "name": "Soumik Roy Chowdhury ",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924688/post%20bearers/q3hh4avon9rlihzcqxjm.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Treasurer"
+      }
+    }
+    ,
+      {
+      "id": 45,
+      "name": "Nikhil Kumar",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924688/post%20bearers/mtk7yatxzy4e0ed9pb7p.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Video Editing Head"
+      }
+    }
+    ,
+      {
+      "id": 44,
+      "name": "Abheerup Sarkar ",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924688/post%20bearers/lbjanawjbwnmxkbigujz.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Content Head"
+      }
+    }
+    ,
+      {
+      "id": 45,
+      "name": "Arindam Chatterjee",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924687/post%20bearers/wgd89kof6ash0jzwzmxh.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Assistant General Secretary"
+      }
+    }
+    ,
+      {
+      "id": 46,
+      "name": "Balli Chanukya ",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924687/post%20bearers/hsmeaov6ztrhhbnbjctt.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "General Secretary"
+      }
+    }
+    ,
+      {
+      "id": 47,
+      "name": "Soumyadip Debnath ",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924687/post%20bearers/mi4a2zccl57xogtbpkba.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Event Head"
+      }
+    }
+    ,
+      {
+      "id": 48,
+      "name": "N.Surya Hemanth",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924687/post%20bearers/qa8folekeqp3mtsdohea.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Social Media Head"
+      }
+    }
+    ,
+      {
+      "id": 49,
+      "name": "Rounak Sarkar",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924687/post%20bearers/gmt4lequbjnz0ecrsqjf.jpg",
+      "type": "Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Graphic Designing Head"
+      }
+    }
+
   ]
   
