@@ -1,24 +1,24 @@
 {
     "teachers": [
         {
-            "name": "John Doe",
-            "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-SnDtnoTbs_JJtNW62ALeA4gKPtpCGcQ5CnVEJNNAddxjuLwrbo1c16rExrxYL4xLmIw&usqp=CAU"
+            "name": "Shibendu Sekhar Roy",
+            "profileImage": "https://saicell-official-website.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fssr.d9c91b1a.jpg&w=640&q=75"
         },
         {
-            "name": "Jane Smith",
-            "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-SnDtnoTbs_JJtNW62ALeA4gKPtpCGcQ5CnVEJNNAddxjuLwrbo1c16rExrxYL4xLmIw&usqp=CAU"
+            "name": "D K Pratihar",
+            "profileImage": "https://saicell-official-website.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FD%20K%20Pratihar.b874e381.jpeg&w=384&q=75"
         },
         {
-            "name": "Alice Johnson",
-            "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-SnDtnoTbs_JJtNW62ALeA4gKPtpCGcQ5CnVEJNNAddxjuLwrbo1c16rExrxYL4xLmIw&usqp=CAU"
+            "name": "Jay Singh Bardia",
+            "profileImage": "https://saicell-official-website.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FJSB.eb0ef3fb.jpeg&w=828&q=75"
         },
         {
-            "name": "Michael Brown",
-            "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-SnDtnoTbs_JJtNW62ALeA4gKPtpCGcQ5CnVEJNNAddxjuLwrbo1c16rExrxYL4xLmIw&usqp=CAU"
+            "name": "Purbarun Dhar",
+            "profileImage": "https://saicell-official-website.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FPurbarun%20Dhar.1cef1ed7.jpeg&w=384&q=75"
         },
         {
-            "name": "Emily Davis",
-            "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-SnDtnoTbs_JJtNW62ALeA4gKPtpCGcQ5CnVEJNNAddxjuLwrbo1c16rExrxYL4xLmIw&usqp=CAU"
+            "name": "Subir Kumar Saha",
+            "profileImage": "https://saicell-official-website.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FS%20K%20Saha.4c79c7f2.jpeg&w=1080&q=75"
         }
     ]
 }
