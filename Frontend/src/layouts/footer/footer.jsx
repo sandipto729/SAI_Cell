@@ -48,8 +48,8 @@ const Footer = () => {
                     </div>
 
                     <div className="footer-grid">
-                        <div className="footer-grid-column">
-                            <div className="footer-grid-heading">Quick Links</div>
+                        {/*<div className="footer-grid-column">
+                             <div className="footer-grid-heading">Quick Links</div>
                             <ul className="footer-links-list">
                                 <ul className="footer-links-list">
                                     <li>
@@ -71,8 +71,8 @@ const Footer = () => {
 
                             </ul>
 
-                        </div>
-                        <div className="footer-grid-column">
+                        </div> */}
+                        {/* <div className="footer-grid-column">
                             <div className="footer-grid-heading">Alumni Support</div>
                             <ul className="footer-links-list">
                                 <li>
@@ -89,7 +89,7 @@ const Footer = () => {
                                 </li>
                             </ul>
 
-                        </div>
+                        </div> */}
                         <div className="footer-grid-column">
                             <div className="footer-grid-heading">Support</div>
                             <ul className="footer-links-list">

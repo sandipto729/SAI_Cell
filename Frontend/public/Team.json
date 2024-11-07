@@ -552,6 +552,61 @@
         "github": "",
         "designation": "Graphic Designing Head"
       }
+    },
+    {
+      "id": 50,
+      "name": "Anagh sinha ",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730916386/Anagh_Sinha_g924wh.jpg",
+      "type": "Second Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Mumber"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Sourashish Das",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730970208/cgpxojbx2a74p9xn19se.jpg",
+      "type": "Second Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Mumber"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Bushra Saad",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730972048/nekrtxkb5kej580ec6gj.jpg",
+      "type": "Pre Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Executive Member"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Debson Mahato",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730973758/uhspyaik3qcch5eia6po.jpg",
+      "type": "Pre Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Executive Member"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Sathish Kumar Panduru",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730973988/xd0ir6opce7mfqtin45c.jpg",
+      "type": "Pre Final Year",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Executive Member"
+      }
     }
 
   ]
