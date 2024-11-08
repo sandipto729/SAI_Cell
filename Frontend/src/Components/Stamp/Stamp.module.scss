@@ -1,0 +1,62 @@
+// Main container styling
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+
+  // Heading style
+  h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+    font-weight: bold;
+    position: relative;
+  }
+
+  // Add decorative underline to heading
+  h1::after {
+    content: "";
+    width: 50px;
+    height: 3px;
+    background-color: #0073e6;
+    display: block;
+    margin: 10px auto;
+    border-radius: 2px;
+  }
+
+  // List styling
+  ol {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  // List item styling
+  li {
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 1.1rem;
+    color: #555;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  // Add hover effect to list items
+  li:hover {
+    transform: scale(1.02);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    background-color: #eaf7ff;
+  }
+
+  // Add style for odd and even list items for variety
+  li:nth-child(odd) {
+    background-color: #f3f9ff;
+  }
+
+}

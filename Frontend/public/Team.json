@@ -7,7 +7,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -18,7 +18,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -29,20 +29,10 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
-      {
-        "id": 7,
-        "name": "KamalKanta Patra",
-        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730918953/members/uqd48pz8pmmugx4nxrdo.jpg",
-        "type": "Second Year",
-        "extra": {
-          "linkedin": "",
-          "github": "",
-          "designation": "Mumber"
-        }
-      },
+      
       {
         "id": 8,
         "name": "Avisikta Mandal",
@@ -51,7 +41,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -62,7 +52,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -73,7 +63,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -84,7 +74,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       }
       ,
@@ -96,7 +86,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -107,7 +97,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -118,7 +108,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -129,7 +119,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -140,7 +130,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       },
       {
@@ -151,7 +141,7 @@
         "extra": {
           "linkedin": "",
           "github": "",
-          "designation": "Mumber"
+          "designation": "Member"
         }
       }
       ,
@@ -348,6 +338,29 @@
 
       ,
       {
+        "id": 38,
+        "name": "Amanjyoti Mullick",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/p2ovs3l6oadta0f72xoq.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "President"
+        }
+      },
+      {
+        "id": 37,
+        "name": "Shayoni Mahato",
+        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/ykyljv9quawf9qdjiihl.jpg",
+        "type": "Final Year",
+        "extra": {
+          "linkedin": "",
+          "github": "",
+          "designation": "Vice President"
+        }
+      },
+      
+      {
         "id": 34,
         "name": "Satyaki Chaudhuri",
         "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924690/post%20bearers/jbjuktjkbasu0jqjlsj4.jpg",
@@ -380,28 +393,7 @@
           "designation": "Graphic Designing Head"
         }
       },
-      {
-        "id": 37,
-        "name": "Shayoni Mahato",
-        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/ykyljv9quawf9qdjiihl.jpg",
-        "type": "Final Year",
-        "extra": {
-          "linkedin": "",
-          "github": "",
-          "designation": "Vice President"
-        }
-      },
-      {
-        "id": 38,
-        "name": "Amanjyoti Mullick",
-        "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730924689/post%20bearers/p2ovs3l6oadta0f72xoq.jpg",
-        "type": "Final Year",
-        "extra": {
-          "linkedin": "",
-          "github": "",
-          "designation": "President"
-        }
-      },
+      
       {
         "id": 39,
         "name": "Arnab Nath",
@@ -561,7 +553,7 @@
       "extra": {
         "linkedin": "",
         "github": "",
-        "designation": "Mumber"
+        "designation": "Member"
       }
     },
     {
@@ -572,7 +564,7 @@
       "extra": {
         "linkedin": "",
         "github": "",
-        "designation": "Mumber"
+        "designation": "Member"
       }
     },
     {
@@ -598,7 +590,7 @@
       }
     },
     {
-      "id": 18,
+      "id": 54,
       "name": "Sathish Kumar Panduru",
       "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730973988/xd0ir6opce7mfqtin45c.jpg",
       "type": "Pre Final Year",
@@ -607,7 +599,19 @@
         "github": "",
         "designation": "Executive Member"
       }
+    },
+    {
+      "id": 55,
+      "name": "Shibendu Sekhar Roy",
+      "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730974595/k2bsmds0zrxbzvuwpo9g.jpg",
+      "type": "Faculty Advisor",
+      "extra": {
+        "linkedin": "",
+        "github": "",
+        "designation": "Department of Mechanical Engineering"
+      }
     }
+
 
   ]
   

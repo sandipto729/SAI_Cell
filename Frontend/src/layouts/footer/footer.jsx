@@ -8,7 +8,8 @@ import {
     FaMapMarkerAlt
 } from "react-icons/fa";
 import "./footer.css";
-import footLogo from "./../../assets/images.png";
+import footLogo from "./../../assets/36a37f10-b0ec-43a5-861f-07d0c622b367.jpeg";
+import { FaInstagramSquare } from "react-icons/fa";
 
 const Footer = () => {
     return (
@@ -32,17 +33,20 @@ const Footer = () => {
                         </div>
                         <div className="filler-text">Cultivating Spiritual Wisdom for a Transcendent Life</div>
                         <div className="social">
-                            <a className="social-link" href="#">
+                            {/* <a className="social-link" href="#">
                                 <FaMapMarkerAlt className="fab_logo" aria-hidden="true" style={{ color: '#0d7e20' }} />
-                            </a>
-                            <a className="social-link" href="#">
+                            </a> */}
+                            <a className="social-link" href="https://www.linkedin.com/company/saicell-nitdgp/">
                                 <FaLinkedin className="fab_logo" aria-hidden="true" style={{ color: '#007bb6' }} />
                             </a>
-                            <a className="social-link" href="https://www.facebook.com/p/Sri-Ramakrishna-Siksha-Niketan-100057181941594/">
+                            <a className="social-link" href="https://www.facebook.com/saic.nitd">
                                 <FaFacebook className="fab_logo" aria-hidden="true" style={{ color: '#3b5998' }} />
                             </a>
-                            <a className="social-link" href="#">
+                            {/* <a className="social-link" href="#">
                                 <FaTwitter className="fab_logo" aria-hidden="true" style={{ color: '#00aced' }} />
+                            </a> */}
+                            <a className="social-link" href="https://www.instagram.com/saicell_nitdgp?igsh=MXF6Z2kzOWpsZWZtMA==">
+                                <FaInstagramSquare  className="fab_logo" aria-hidden="true" style={{ color: "rgb(200, 72, 93)" }} />
                             </a>
                         </div>
                     </div>
@@ -97,7 +101,7 @@ const Footer = () => {
                                     <a href="#contact" className="footer-link">CONTACT Us</a>
                                 </li>
                                 <li>
-                                    <a href="mailto:alumni@admin.nitdgp.ac.in" className="footer-link">MAIL: alumni@admin.nitdgp.ac.in</a>
+                                    <a href="mailto:saic@nitdgp.ac.in" className="footer-link">MAIL: saic@nitdgp.ac.in</a>
                                 </li>
                             </ul>
 
