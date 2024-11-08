@@ -1,4 +1,4 @@
-import styles from './BSchool.module.scss';
+import styles from './Bschool.module.scss';
 
 function BSchoolChronicles() {
   return (
