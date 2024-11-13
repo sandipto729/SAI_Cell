@@ -554,12 +554,14 @@
     "name": "Mandala Bharadwaj",
     "img": "https://res.cloudinary.com/dzdb9pahz/image/upload/v1730919899/members/jwrdm6fimxknd9766kip.jpg",
     "type": "Second Year",
+    
     "extra": {
       "linkedin": "",
       "github": "",
       "designation": "Member"
     }
   },
+  
   {
     "id": 15,
     "name": "Prakash Chandra Das",
