@@ -59,7 +59,7 @@ const SchoolNavbar = () => {
                 </div>
                 <div className={styles.sname}>
                     <h3>SAI CELL</h3>
-                    <p>Established : 2001</p>
+                    <p>Established : 2018</p>
                 </div>
             </div>
 
@@ -108,7 +108,7 @@ const SchoolNavbar = () => {
                         </ul>
                     )}
                 </li> */}
-
+                <li><HashLink smooth to='/chronicles' className={styles.salumniLink}><span>NITDIAN chronicles</span></HashLink></li>
                 <li><HashLink smooth to='/team' className={styles.salumniLink}><span>Team</span></HashLink></li>
             </div>
 
@@ -150,6 +150,7 @@ const SchoolNavbar = () => {
 
 
                     {/* <li><HashLink smooth to='/ashram' onClick={() => { document.body.classList.remove('lock-scroll') }} style={{ color: 'rgb(255, 153, 0)', fontSize: 'large', fontWeight: 'bolder' }}>Ashram</HashLink></li> */}
+                    <li><HashLink smooth to='/chronicles' onClick={toggleSideMenu} style={{ color: 'rgb(255, 153, 0)' }}>NITDIAN chronicles</HashLink></li>
                     <li><HashLink smooth to='/team' onClick={toggleSideMenu} style={{ color: 'rgb(255, 153, 0)' }}>Team</HashLink></li>
 
                 </ul>
