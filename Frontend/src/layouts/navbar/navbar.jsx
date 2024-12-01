@@ -54,13 +54,13 @@ const SchoolNavbar = () => {
         <div className={styles.snavbar}>
             {/* Logo Section */}
             <div className={styles.schooldetails}>
-                <div className={styles.school_logo}>
+                <HashLink smooth to='/' className={styles.school_logo}>
                     <img src={logo} alt="school logo" className={styles.slogo} />
-                </div>
-                <div className={styles.sname}>
+                </HashLink>
+                <HashLink smooth to='/' className={styles.sname}>
                     <h3>SAI CELL</h3>
                     <p>Established : 2018</p>
-                </div>
+                </HashLink>
             </div>
 
             {/* Main Navigation */}
